@@ -8,9 +8,9 @@ int main()
     {
         cout<<a<<" ";
         int c=a+b;
-        a=b;
-        b=c;
-        n--;
+        // a=b;
+        // b=c;
+        // n--;
     }
     return 0;
 }
