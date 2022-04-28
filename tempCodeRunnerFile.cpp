@@ -1,0 +1,2 @@
+cout<<gcd;
+    cout<<lcm;
